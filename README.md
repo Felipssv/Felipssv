@@ -37,3 +37,9 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Felipssv/Felipssv/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
