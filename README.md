@@ -28,7 +28,7 @@
 
 ### Technologies
 
-<p align="left">
+<p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
