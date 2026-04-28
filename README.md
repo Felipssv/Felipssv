@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello! I'm Felipe 👋  
-### Desenvolvedor em formação 🚀
+### Desenvolvedor e estudante de programação
 
 </div>
 
