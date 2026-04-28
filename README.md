@@ -39,6 +39,13 @@
 </p>
 
 ---
+### Social Media
+
+<p align="center">
+  <a href="https://instagram.com/felipesorrentino"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:felipesorrentino89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/felipe-sorrentino-695b7433a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/Felipssv/Felipssv/blob/output/github-contribution-grid-snake-dark.svg" />
