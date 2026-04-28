@@ -16,6 +16,16 @@
 
 ---
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipssv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipssv&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
 ### Technologies
 
 <p align="left">
@@ -27,13 +37,3 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg">
 </p>
-
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipssv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipssv&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
