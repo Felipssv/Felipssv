@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hello! I'm Felipe 👋  
-### Desenvolvedor e estudante de programação
+# Hello there! I'm Felipe 👋  
+### Developer and programming student
 
 </div>
 
@@ -9,10 +9,10 @@
 
 ### About me
 
-- 💻 Estudando desenvolvimento web e programação
-- 🧠 Tenho interesse em JavaScript, Java, React, Python e Delphi
-- 🛠️ Criando projetos para praticar front-end, back-end e banco de dados
-- 📚 Sempre aprendendo novas tecnologias
+- 💻 Studying web development and programming
+- 🧠 Interested in JavaScript, Java, React, Python, and Delphi
+- 🛠️ Building projects to practice front-end, back-end, and databases
+- 📚 Always learning new technologies
 
 ---
 
