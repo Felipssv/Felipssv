@@ -11,7 +11,7 @@
 
 - 💻 Studying web development and programming
 - 🧠 Interested in JavaScript, Java, React, Python, and Delphi
-- 🛠️ Building projects to practice front-end, back-end, and databases
+- 🛠️ Building projects to practice front-end, back-end, AI, Machine Learning, databases and Data analysis
 - 📚 Always learning new technologies
 
 ---
