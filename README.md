@@ -9,7 +9,7 @@
 
 ### About me
 
-- 💻 Studying web development and programming
+- 💻 Studying web development, AI, Machine Learning, Spring Boot and System Design
 - 🧠 Interested in JavaScript, Java, React, Python, and Delphi
 - 🛠️ Building projects to practice front-end, back-end, AI, Machine Learning, databases and Data analysis
 - 📚 Always learning new technologies
